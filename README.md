@@ -1,5 +1,3 @@
-----------------------------------------------------------Google Trends DashBoard--------------------------------------------------------
-
 Overview Page :
 
 ![Screenshot 2024-09-12 175309](https://github.com/user-attachments/assets/242aef56-a458-4859-be3f-8d768e9b8af9)
